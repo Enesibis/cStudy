@@ -1,0 +1,4 @@
+﻿  cStudy.c
+C:\Users\enes\source\repos\cStudy\cStudy.c(514,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\enes\source\repos\cStudy\cStudy.c(519,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  cStudy.vcxproj -> C:\Users\enes\source\repos\cStudy\x64\Debug\cStudy.exe
